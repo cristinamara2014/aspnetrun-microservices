@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "57R5yS77vlH0Gh61qy2vmO66xADzgnHpxRfbG8HqJS8WGf/tUwwPFS+nzujjVdWoYoUmIE6prj6V06vkM+JIsQ==",
+  "dgSpecHash": "Fd0xVLB1TAOlBlL0rDeuZKE/16cBUacoH3+TJaYJomWaNLI0U0vD4+4VkDT9V9u1nd9rAX1wzAplOxQ41qc7Zg==",
   "success": true,
   "projectFilePath": "C:\\Dev\\aspnetrun-microservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
   "expectedPackageFiles": [],
